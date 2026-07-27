@@ -18,6 +18,7 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.40.1
 	github.com/hashicorp/terraform-plugin-testing v1.16.0
 	github.com/jianyuan/go-utils v0.0.0-20250223213401-62c93a9e0b6c
+	github.com/oapi-codegen/nullable v1.2.0
 	github.com/oapi-codegen/runtime v1.4.2
 	github.com/orange-cloudavenue/terraform-plugin-framework-supertypes v1.2.0
 	github.com/samber/lo v1.53.0
@@ -27,6 +28,7 @@ require (
 require (
 	dario.cat/mergo v1.0.2 // indirect
 	github.com/BurntSushi/toml v1.5.0 // indirect
+	github.com/DataDog/jsonapi v0.13.0
 	github.com/Kunde21/markdownfmt/v3 v3.1.0 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
